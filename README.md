@@ -36,9 +36,15 @@
 | | |
 |---|---|
 | 💰 **[FinFlow](https://github.com/Katsuo666/FinFlow_Project)** | App Android de gestão financeira pessoal — Kotlin |
+| 🛒 **CROMA_FAB** · privado | Marketplace de cosplays 3D com pagamentos Stripe e escrow automático — Laravel 12 + Vue 3 |
+| 🛡️ **[Hand of God](https://github.com/Katsuo666/Hand-of-God-UNIFIED)** | Framework de linha de comandos em Python com mais de 25 ferramentas de OSINT e pentest |
 | 🕶️ **[AR.js](https://github.com/Katsuo666/Teste_site_AR.js)** | Realidade aumentada web baseada em marcadores · [demo](https://teste-site-ar-js.vercel.app) |
 | 🕶️ **[MindAR.js](https://github.com/Katsuo666/Teste_site_MindAR.js)** | AR no browser com rastreamento de imagem/rosto · [demo](https://teste-site-mind-ar-js.vercel.app) |
 | 🧊 **[Model-Viewer](https://github.com/Katsuo666/Teste_site_Google-model-viewer)** | Visualização 3D/AR com o Model-Viewer da Google · [demo](https://teste-site-google-model-viewer.vercel.app) |
+| 🎮 **GDN** · privado | Jogo em Godot 4 (GDScript) construído sobre o template COGITO |
+| 📱 **BTV** · privado | App Android para descarregar vídeos |
+
+<sub>Os projetos marcados como "privado" não têm repositório público. A descrição de todos está no <a href="https://marcoscanastro.github.io">portfolio</a>.</sub>
 
 </div>
 
