@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09080e,50:7c3aed,100:a855f7&height=220&section=header&text=Marcos%20Canastro&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20de%20Software%20J%C3%BAnior&descAlignY=52&descSize=18&descColor=d2bbff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09080e,50:7c3aed,100:a855f7&height=220&section=header&text=Marcos%20Canastro&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20de%20Software&descAlignY=52&descSize=18&descColor=d2bbff" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=560&lines=Sistemas+%26+An%C3%A1lise+de+Dados+(IEFP);Kotlin+%7C+React+%7C+Vue+%7C+Laravel;A+construir+experi%C3%AAncias+WebAR;Sempre+a+aprender+algo+novo" alt="Typing SVG" />
 
