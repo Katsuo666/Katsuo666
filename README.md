@@ -6,6 +6,9 @@
 
 <br/>
 
+<a href="https://marcoscanastro.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/marcos-canastro-a501b0345">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -64,7 +67,7 @@
 
 <div align="center">
 
-📧 markuscanastro@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/marcos-canastro-a501b0345)
+🌐 [Portfolio](https://marcoscanastro.github.io) &nbsp;·&nbsp; 📧 markuscanastro@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/marcos-canastro-a501b0345)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:09080e&height=100&section=footer" width="100%"/>
 
